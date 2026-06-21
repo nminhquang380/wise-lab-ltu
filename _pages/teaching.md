@@ -8,6 +8,8 @@ permalink: /teaching/
 ## Teaching
 
 <div class="section-card">
-<!-- TODO: add course listings -->
-<p style="color: var(--text-muted);">Course information coming soon.</p>
+<ul>
+<li>Natural Language Processing (CSE3NLP/CSE5NLP)</li>
+<li>Algorithms and Data Structures (CSE2ALG/CSE5ALG)</li>
+</ul>
 </div>
