@@ -1,11 +1,10 @@
-# Optional: detailed education and bio for the About page.
-# Basic info (name, photo, links) now lives in _config.yml.
-# Delete this file if you only need the basics.
-
-# EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "(2017) Ph.D., Dalian University of Technology, China"
+    - "(2015) Visiting PhD Scholar, University of Tennessee, Knoxville, USA"
+    - "Post-Doctoral Research Fellow, University of New South Wales, Sydney, Australia"
+    - "Alexander von Humboldt Research Fellow, Friedrich-Alexander University Erlangen-Nuremberg, Germany"
+    - "Assistant Professor (Research), The Hong Kong Polytechnic University"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "(2017) Ph.D., Dalian University of Technology"
+    - "Post-Doc, UNSW Sydney"
+    - "AvH Fellow, FAU Erlangen-Nuremberg"

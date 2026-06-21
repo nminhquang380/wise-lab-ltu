@@ -10,50 +10,50 @@ permalink: /research/
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Integrated Sensing and Communication">
 <div class="research-body">
-<h4 class="research-title">Quantum Electrodynamics</h4>
-<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+<h4 class="research-title">Integrated Sensing and Communication (ISAC)</h4>
+<p class="research-desc">Design and optimisation of dual-function systems that simultaneously perform radar sensing and data communication using a shared waveform and hardware platform. Research spans predictive beamforming, joint waveform design, and deep learning-driven beam management for ISAC in vehicular and 6G networks.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Machine Learning for Communications">
 <div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+<h4 class="research-title">Machine Learning for Communications</h4>
+<p class="research-desc">Application of deep learning, reinforcement learning, graph neural networks, and large language models to solve complex optimisation problems in wireless networks. Topics include learning-based resource allocation, recurrent GNN beamforming, and diffusion model-enhanced environment reconstruction.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Internet of Things">
 <div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+<h4 class="research-title">Internet of Things (IoT)</h4>
+<p class="research-desc">Energy-efficient and intelligent connectivity solutions for massive IoT deployments. Research addresses low-power sensing, heterogeneous network access, and AI-driven resource management to support reliable ubiquitous connectivity at scale in smart city and industrial IoT scenarios.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Vehicular-to-Everything Networks">
 <div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+<h4 class="research-title">Vehicular-to-Everything (V2X) Networks</h4>
+<p class="research-desc">Intelligent communication and sensing for connected and autonomous vehicles. Work includes predictive beamforming for vehicles with complex behaviours, cooperative perception, and reliable V2X link management under high mobility — supporting safety-critical and latency-sensitive automotive applications.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Low-Altitude Wireless Networks">
 <div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+<h4 class="research-title">Low-Altitude Wireless Networks (LAWN)</h4>
+<p class="research-desc">Communication and sensing system design for low-altitude aerial platforms including UAVs and drones. Research investigates trajectory optimisation, air-to-ground channel modelling, and integrated sensing-communication frameworks to enable resilient and efficient low-altitude network infrastructure.</p>
 </div>
 </div>
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Intelligent Reflecting Surface and 6G">
 <div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+<h4 class="research-title">Intelligent Reflecting Surface &amp; 6G Technologies</h4>
+<p class="research-desc">Reconfigurable intelligent surfaces (IRS/RIS) for passive beamforming and secure communications, including robust sum-rate maximisation and self-sustainable IRS designs. Complementary work on OTFS modulation for high-mobility channels and other enabling physical-layer technologies for 6G.</p>
 </div>
 </div>
 

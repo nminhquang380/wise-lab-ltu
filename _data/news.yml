@@ -1,20 +1,33 @@
 # News items shown on the home page sidebar.
 # The 3 most recent are shown; all appear on /allnews.
 # Each entry needs: date, headline
-- date: 6 February, 1986
-  headline: "Appointed to the Rogers Commission investigating the Space Shuttle Challenger disaster"
 
-- date: 1 January, 1980
-  headline: "National Medal of Science awarded by President Carter"
+- date: "May 2026"
+  headline: "Invited to serve as Editor of the IEEE Transactions on Wireless Communications (Q1, IF 10.7)"
 
-- date: 21 October, 1965
-  headline: "Awarded the Nobel Prize in Physics for contributions to quantum electrodynamics"
+- date: "January 2026"
+  headline: "Supervised Bachelor Honours Student's first-authored paper 'Diffusion Model-Enhanced Environment Reconstruction in ISAC' accepted by IEEE Wireless Communications Letters (Q1, IF 5.5)"
 
-- date: 1 September, 1961
-  headline: "The Feynman Lectures on Physics begins publication"
+- date: "January 2026"
+  headline: "Paper 'Scalable-Predictive Beamforming for Integrated Sensing and Covert Communications: A Recurrent Graph Neural Network Approach' accepted by IEEE Transactions on Communications (Q1, IF 8.3)"
 
-- date: 1 June, 1959
-  headline: "Delivered 'There's Plenty of Room at the Bottom' talk at Caltech APS meeting"
+- date: "December 2025"
+  headline: "Received the Vice Chancellor's Research Excellence Award (Office of the Vice-Chancellor, La Trobe University) and the SCEMS Research Excellence Award (School of Computing, Engineering and Mathematical Sciences, La Trobe University)"
 
-- date: 1 January, 1951
-  headline: "Joined the faculty at California Institute of Technology"
+- date: "November 2025"
+  headline: "First-authored paper in IEEE J. Sel. Areas Commun. (Q1, IF 17.2) recognised as Web of Science ESI Highly Cited Paper — Top 1% most cited worldwide in Computer Science"
+
+- date: "September 2025"
+  headline: "Invited to serve as EDAS Chair for IEEE PIMRC 2026 in Singapore"
+
+- date: "September 2025"
+  headline: "Recognised as one of the World's Top 2% Scientists (3rd consecutive year) in Networking and Telecommunications, ranked by Stanford University"
+
+- date: "August 2025"
+  headline: "Invited to serve as Publication Chair for IEEE ISWCS 2026 in Gold Coast, Australia"
+
+- date: "November 2024"
+  headline: "Invited to serve as Editor of the IEEE Transactions on Communications (Q1, IF 8.3)"
+
+- date: "October 2024"
+  headline: "Listed as one of the World's Top 2% Scientists (2nd consecutive year) in Networking and Telecommunications, ranked by Stanford University"
